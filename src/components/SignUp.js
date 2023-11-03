@@ -40,7 +40,7 @@ class SignUp extends Component {
             <div class="sign-up-box">
                 <form onSubmit={this.handleSubmit}>
                     <div class="logo">
-                        <img src="images/user.png" alt="user icon" />
+                        <img src="Images/user.png" alt="user icon" />
                         <h1>CREATE ACCOUNT</h1>
                     </div>
                     <p>already have an account ? <a href="#" id="link-in-p">Sign In</a></p>
