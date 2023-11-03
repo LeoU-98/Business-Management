@@ -1,0 +1,56 @@
+/* Start Variables  */
+
+:root {
+  --orange-color: #f6b54f;
+  --gray-color: #5b5b5c;
+}
+
+/* End Variables  */
+
+/* Start  Global Rules  */
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  background-color: #f6b54f;
+  font-family: "Raleway", sans-serif;
+  height: 1000px;
+  scroll-behavior: smooth;
+  color: #5b5b5c;
+}
+
+.container {
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: white;
+  border-radius: 40px;
+  height: fit-content;
+  padding-bottom: 50px;
+}
+
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+
+/* End  Global Rules  */

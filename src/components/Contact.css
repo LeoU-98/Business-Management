@@ -1,0 +1,165 @@
+
+/* Start Contact */
+
+.container .contact {
+    display: flex;
+    justify-content: space-around;
+    height: 60%;
+  }
+  
+  @media (max-width: 992px) {
+    .container .contact {
+      flex-direction: column;
+    }
+  }
+  
+  /* start message form  */
+  
+  .container .contact .message-form form {
+    display: flex;
+    flex-direction: column;
+    padding: 35px;
+    border: 2px solid #e5e5e5;
+    border-radius: 80px 80px 80px 0;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #e5e5e5;
+  }
+  
+  @media (max-width: 992px) {
+    .container .contact .message-form {
+      width: 75%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+  
+  .container .contact .message-form form label,
+  .container .contact .message-form form input:not(:last-child) {
+    padding: 10px;
+  }
+  
+  .container .contact .message-form form input:not(:last-child) {
+    border: 2px solid #e1e3e2;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-position: 10px 10px;
+    background-size: 27px;
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 45px;
+    max-width: 90%;
+  }
+  
+  [type="submit"] {
+    cursor: pointer;
+    border: 1px solid gray;
+    border-radius: 30px;
+    margin-top: 25px;
+    color: white;
+    background: gray;
+    padding: 8px 30px;
+    width: fit-content;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    position: relative;
+    top: 20px;
+  }
+  
+  [type="submit"]:hover {
+    color: gray;
+    background: white;
+  }
+  
+  [id="Message"] {
+    padding: 15px;
+    border-radius: 20px;
+    border: 0;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.06);
+    width: 400px;
+    max-width: 100%;
+    height: 85px;
+    resize: none;
+  }
+  
+  [id="Name"] {
+    background-image: url("/public/Images/user1.png");
+  }
+  
+  [id="Email"] {
+    background-image: url("/public/Images/email.png");
+  }
+  
+  [id="Subject"] {
+    background-image: url("/public/Images/book.png");
+  }
+  
+  /* end message form  */
+  /* start background  */
+  
+  .container .contact .background {
+    width: 30%;
+    padding-top: 200px;
+  }
+  
+  .container .contact .background img {
+    max-width: 100%;
+  }
+  
+  @media (max-width: 992px) {
+    .container .contact .background {
+      width: 85%;
+      padding-top: 50px;
+      text-align: center;
+      margin: 0 auto;
+    }
+  }
+  
+  /* end background  */
+  
+  /* start social icon  */
+  
+  .container .contact .social-icon-box {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+  }
+  
+  @media (max-width:992px ){
+  
+      .container .contact .social-icon-box {
+          max-width: 90%;
+          margin: 0 auto;
+          flex-direction: row;
+          
+        }
+  
+  }
+  
+  @media(max-width:400px){
+      .container .contact .social-icon-box {
+          gap: 20px;
+        }
+  }
+  
+  .container .contact .social-icon-box .social-icon a {
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    text-align: center;
+  }
+  
+  .container .contact .social-icon-box .social-icon a img {
+    width: 48px;
+    height: 48px;
+  }
+  
+  .container .contact .social-icon-box .social-icon {
+    margin-top: 10px;
+  }
+  
+  /* end social icon  */
+  
+  /* End Contact */
+  
