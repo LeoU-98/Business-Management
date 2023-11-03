@@ -58,7 +58,7 @@ render(){
 
         
         <div className="background">
-            <img src=".Images/Contact Background.png" alt=""/>
+            <img src="/Images/Contact Background.png" alt=""/>
         </div>
 
       
@@ -69,25 +69,25 @@ render(){
 
             <div className="social-icon">
                 <a href="https://web.whatsapp.com/">
-                    <img src="Images/What's App Logo.png" alt="WhatsApp"/>
+                    <img src="/Images/What's App Logo.png" alt="WhatsApp"/>
                     <h6>WhatsApp</h6>
                 </a>
             </div>
             <div className="social-icon">
                 <a href="https://twitter.com/">
-                    <img src="Images/Twitter Logo.png" alt="Twitter"/>
+                    <img src="/Images/Twitter Logo.png" alt="Twitter"/>
                     <h6>Twitter</h6>
                 </a>
             </div>
             <div className="social-icon">
                 <a href="https://www.facebook.com/">
-                    <img src="Images/Facebook Logo.png" alt="Facebook"/>
+                    <img src="/Images/Facebook Logo.png" alt="Facebook"/>
                     <h6>Facebook</h6>
                 </a>
             </div>
             <div className="social-icon">
                 <a href="https://www.instagram.com/">
-                    <img src="Images/Insta Logo.png" alt="Instagram"/>
+                    <img src="/Images/Insta Logo.png" alt="Instagram"/>
                     <h6>Instagram</h6>
                 </a>
             </div>

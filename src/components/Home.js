@@ -21,7 +21,7 @@ export default function Home() {
         </div>
 
         <div className="home-image">
-          <img src="Images/HomeBackground.jpg" alt="home wallpaper" />
+          <img src="/Images/HomeBackground.jpg" alt="home wallpaper" />
         </div>
       </div>
 
