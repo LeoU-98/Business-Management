@@ -11,7 +11,7 @@ export default function Services () {
         <div className="div-51">
 
             <div className="div-image-1">
-                <img src="/Images/b.jpg" />
+                <img src="Images/b.jpg" />
             </div>
 
             <div className="div-text-1">
@@ -36,7 +36,7 @@ export default function Services () {
         <div className="div-52">
 
             <div className="div-image-2">
-                <img src="/Images/f.jpg" />
+                <img src="Images/f.jpg" />
             </div>
 
 
@@ -59,7 +59,7 @@ export default function Services () {
         <div className="div-53">
 
             <div className="div-image-3">
-                <img src="/Images/ro.jpg" />
+                <img src="Images/ro.jpg" />
             </div>
 
 
