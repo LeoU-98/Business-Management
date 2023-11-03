@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 
 import "Home.css";
-import HomeBackground from './Images/HomeBackground.jpg'
+import HomeBackground from './Images/HomeBackground.jpg';
 
 export default function Home() {
   return (
@@ -18,7 +18,7 @@ export default function Home() {
       </div>
 
       <div className="home-image">
-        <img src="./Images/HomeBackground.jpg" alt="home wallpaper" />
+        <img src={HomeBackground} alt="home wallpaper" />
       </div>
     </div>
   );
