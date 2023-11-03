@@ -2,7 +2,7 @@ import React, { Component } from "react";
 
 import "Home.css";
 
-// my comment here is to test push 
+
 export default function Home() {
   return (
     <div className="home-content">
