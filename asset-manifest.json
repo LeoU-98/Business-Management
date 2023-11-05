@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Business-Management/static/css/main.2428c5c1.css",
+    "main.js": "/Business-Management/static/js/main.8180b27d.js",
+    "static/js/787.5373ea6b.chunk.js": "/Business-Management/static/js/787.5373ea6b.chunk.js",
+    "static/media/HomeBackground.jpg": "/Business-Management/static/media/HomeBackground.3f3a9107d6d6174377da.jpg",
+    "static/media/email.png": "/Business-Management/static/media/email.ed4eda199be9250fc281.png",
+    "static/media/user1.png": "/Business-Management/static/media/user1.c920752422c11377083e.png",
+    "static/media/padlock.png": "/Business-Management/static/media/padlock.ab1ad7788ea6d15208ed.png",
+    "index.html": "/Business-Management/index.html",
+    "main.2428c5c1.css.map": "/Business-Management/static/css/main.2428c5c1.css.map",
+    "main.8180b27d.js.map": "/Business-Management/static/js/main.8180b27d.js.map",
+    "787.5373ea6b.chunk.js.map": "/Business-Management/static/js/787.5373ea6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2428c5c1.css",
+    "static/js/main.8180b27d.js"
+  ]
+}
