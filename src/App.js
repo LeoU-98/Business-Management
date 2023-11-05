@@ -30,13 +30,12 @@ class App extends React.Component {
 
           <NavBar />
           <Routes>
-            <Route path="/Contact" element={<Contact />}> </Route>
-            <Route path="/About" element={<About />}> </Route>
-            <Route exact path="/" element={<Home />}> </Route>
+            <Route path="/Contact"  element={<Contact />}> </Route>
+            <Route path="/About"    element={<About />}> </Route>
+            <Route path="/Home"     element={<Home />}> </Route>
             <Route path="/Services" element={<Services />}> </Route>
-            <Route path="/SignUp" element={<SignUp/>}> </Route>
-            <Route path="*" element={<PageNotFound/>}> </Route>
-            
+            <Route path="/SignUp"   element={<SignUp/>}> </Route>
+            <Route path="*"         element={<PageNotFound/>}> </Route>
           </Routes>
 
         </div>
