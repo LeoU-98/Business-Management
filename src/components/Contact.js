@@ -1,6 +1,10 @@
 import React, { Component} from 'react'
 import './Contact.css'
-
+import ContactBackground from   './Images/ContactBackground.png';
+import WAppLogo          from   './Images/WAppLogo.png';
+import TwitterLogo       from   './Images/TwitterLogo.png';
+import FacebookLogo      from   './Images/FacebookLogo.png';
+import InstaLogo         from   './Images/InstaLogo.png';
 
 
 
@@ -58,7 +62,7 @@ render(){
 
         
         <div className="background">
-            <img src="/Images/Contact Background.png" alt=""/>
+            <img src={ContactBackground} alt=""/>
         </div>
 
       
@@ -69,25 +73,25 @@ render(){
 
             <div className="social-icon">
                 <a href="https://web.whatsapp.com/">
-                    <img src="/Images/What's App Logo.png" alt="WhatsApp"/>
+                    <img src={WAppLogo} alt="WhatsApp"/>
                     <h6>WhatsApp</h6>
                 </a>
             </div>
             <div className="social-icon">
                 <a href="https://twitter.com/">
-                    <img src="/Images/Twitter Logo.png" alt="Twitter"/>
+                    <img src={TwitterLogo} alt="Twitter"/>
                     <h6>Twitter</h6>
                 </a>
             </div>
             <div className="social-icon">
                 <a href="https://www.facebook.com/">
-                    <img src="/Images/Facebook Logo.png" alt="Facebook"/>
+                    <img src={FacebookLogo} alt="Facebook"/>
                     <h6>Facebook</h6>
                 </a>
             </div>
             <div className="social-icon">
                 <a href="https://www.instagram.com/">
-                    <img src="/Images/Insta Logo.png" alt="Instagram"/>
+                    <img src={InstaLogo} alt="Instagram"/>
                     <h6>Instagram</h6>
                 </a>
             </div>

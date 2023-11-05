@@ -2,6 +2,8 @@ import React, { Component } from 'react'
 import Checkbox from "@mui/material/Checkbox";
 import FormControlLabel from "@mui/material/FormControlLabel";
 import './SignUp.css'
+import user from './Images/user.png';
+
 
 class SignUp extends Component {
     state={
@@ -40,7 +42,7 @@ class SignUp extends Component {
             <div class="sign-up-box">
                 <form onSubmit={this.handleSubmit}>
                     <div class="logo">
-                        <img src="/Images/user.png" alt="user icon" />
+                        <img src={user} alt="user icon" />
                         <h1>CREATE ACCOUNT</h1>
                     </div>
                     <p>already have an account ? <a href="#" id="link-in-p">Sign In</a></p>
