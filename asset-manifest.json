@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Business-Management/static/css/main.2428c5c1.css",
-    "main.js": "/Business-Management/static/js/main.491f0cf4.js",
+    "main.js": "/Business-Management/static/js/main.a7e0e1db.js",
     "static/js/787.5373ea6b.chunk.js": "/Business-Management/static/js/787.5373ea6b.chunk.js",
     "static/media/ContactBackground.png": "/Business-Management/static/media/ContactBackground.276a832cfa0820ab3cea.png",
     "static/media/HomeBackground.jpg": "/Business-Management/static/media/HomeBackground.3f3a9107d6d6174377da.jpg",
@@ -14,11 +14,11 @@
     "static/media/InstaLogo.png": "/Business-Management/static/media/InstaLogo.efc8f80895f530e4bed5.png",
     "index.html": "/Business-Management/index.html",
     "main.2428c5c1.css.map": "/Business-Management/static/css/main.2428c5c1.css.map",
-    "main.491f0cf4.js.map": "/Business-Management/static/js/main.491f0cf4.js.map",
+    "main.a7e0e1db.js.map": "/Business-Management/static/js/main.a7e0e1db.js.map",
     "787.5373ea6b.chunk.js.map": "/Business-Management/static/js/787.5373ea6b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2428c5c1.css",
-    "static/js/main.491f0cf4.js"
+    "static/js/main.a7e0e1db.js"
   ]
 }
