@@ -18,7 +18,7 @@ export default function NavBar() {
                 <div></div>
             </div>
             <ul>
-                <li><NavLink to="/Home"     >Home</NavLink></li>
+                <li><NavLink to="/" exact   >Home</NavLink></li>
                 <li><NavLink to="/About"    >About</NavLink></li>
                 <li><NavLink to="/Services" >Services</NavLink></li>
                 <li><NavLink to="/Contact"  >Contact</NavLink></li>
