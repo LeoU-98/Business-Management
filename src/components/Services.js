@@ -25,7 +25,7 @@ export default function Services () {
                     managing contractual and financial arrangements, ensuring IRS
                     compliance, and developing forward-thinking tax strategies.
                 </p>
-                <a href="https://www.millerkaplan.com/services_categories/tax/">
+                <a href="https://en.wikipedia.org/wiki/Tax">
                     <button className="btn"> READ MORE</button>
                 </a>
             </div>
@@ -49,7 +49,7 @@ export default function Services () {
                     work with you to establish your short- and long-term goals and then
                     map out a customized strategy to get you there
                 </p>
-                <a href="https://www.millerkaplan.com/services/individuals-family-groups/">
+                <a href="https://en.wikipedia.org/wiki/Financial_planner">
                     <button className="btn">READ MORE</button>
                 </a>
 
@@ -77,7 +77,7 @@ export default function Services () {
                     potential additional risk.
                 </p>
                 <a
-                    href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiI8IWz082AAxUYRKQEHUMoB8UQFnoECCwQAQ&url=https%3A%2F%2Fwww.nab.com.au%2Fbusiness%2Findustry%2Fasset-servicing%2Finvestment-administration-services&usg=AOvVaw32tOFIkFDKcZfXTUDDvG7x&opi=89978449">
+                    href="https://en.wikipedia.org/wiki/Investment_management">
                     <button className="btn">READ MORE</button></a>
 
             </div>
