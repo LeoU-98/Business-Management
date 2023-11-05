@@ -11,7 +11,7 @@ export default function Services () {
         <div className="div-51">
 
             <div className="div-image-1">
-                <img src="/Images/b.jpg" />
+                <img src="./Images/b.jpg" />
             </div>
 
             <div className="div-text-1">

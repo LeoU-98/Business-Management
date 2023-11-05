@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-import "Home.css";
+import "./Home.css";
 import HomeBackground from './Images/HomeBackground.jpg';
 
 export default function Home() {
